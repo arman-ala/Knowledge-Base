@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Main Notes/docker/7.2. Docker Container Exit Codes Policies.md",
+                "file": "6. Main Notes/Ansible/2.8. Playbook Syntax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.2. Docker Container Exit Codes Policies"
+              "title": "2.8. Playbook Syntax"
             }
           }
         ],
@@ -197,6 +197,11 @@
   },
   "active": "9774a2bd973f72cb",
   "lastOpenFiles": [
+    "6. Main Notes/2.9. ansible-playbook Command.md",
+    "6. Main Notes/Ansible/2.9. ansible-playbook Command.md",
+    "6. Main Notes/Ansible/2.8. Playbook Syntax.md",
+    "5. Templates/Course Note.md",
+    "6. Main Notes/docker/7.2. Docker Container Exit Codes Policies.md",
     "6. Main Notes/docker/7.1. Docker Restart Policies.md",
     "6. Main Notes/docker/6.6. Docker History.md",
     "6. Main Notes/docker/6.5. dockerignore.md",
@@ -213,16 +218,11 @@
     "6. Main Notes/docker/6.2.7. Dockerfile Instructions - USER.md",
     "6. Main Notes/docker/6.2.6. Dockerfile Instructions - ENV.md",
     "6. Main Notes/docker/6.2.5. Dockerfile Instructions - RUN.md",
-    "5. Templates/Course Note.md",
     "6. Main Notes/docker/6.2.4. Dockerfile Instructions - ADD.md",
     "6. Main Notes/docker/6.2.3. Dockerfile Instructions - LABEL.md",
     "6. Main Notes/docker/6.2.3. Dockerfile Instructions - COPY.md",
     "6. Main Notes/docker/6.2.1. Dockerfile Instructions - FROM.md",
     "6. Main Notes/docker/6.1.2. Caching Impacts.md",
-    "6. Main Notes/docker/6.1.1. Intermediate Containers.md",
-    "6. Main Notes/docker/6.1. Building Docker Images.md",
-    "6. Main Notes/docker/5.12. Network Troubleshoot.md",
-    "6. Main Notes/docker/5.11. Service Discovery in Docker.md",
     "2. Source Material/images/Ansible/2.8. output.png",
     "2. Source Material/images/Ansible/2.8. output 2.png",
     "2. Source Material/images/Ansible/2.7. Ansible playbook structure.png",
