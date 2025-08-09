@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "justify",
+    "bold_italic"
+  ],
+  "textFontFamily": "Segoe UI",
+  "monospaceFontFamily": "Segoe UI"
+}

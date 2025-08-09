@@ -1,0 +1,29 @@
+/* Source mode - bold syntax (**) */
+.cm-formatting-strong,
+.markdown-source-view .cm-formatting-strong {
+    color: #4caf50 !important;
+}
+
+/* Source mode - italic syntax (*) */
+.cm-formatting-em,
+.markdown-source-view .cm-formatting-em {
+    color: #2e7d32 !important;
+}
+
+/* Highlighted bold text (inside editor) */
+.cm-highlight > .cm-bold,
+.markdown-source-view .cm-bold {
+    color: #4caf50 !important;
+}
+
+/* Highlighted italic text (inside editor) */
+.cm-highlight > .cm-italic,
+.markdown-source-view .cm-italic {
+    color: #2e7d32 !important;
+}
+
+/* Preview mode - rendered bold and italic text */
+.markdown-preview-view strong,
+.markdown-preview-view em {
+    color: #4caf50 !important; /* You can split these if you want different colors */
+}
