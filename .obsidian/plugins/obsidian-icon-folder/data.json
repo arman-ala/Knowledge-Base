@@ -87,5 +87,15 @@
   "6. Main Notes/docker/6.2.13. Dockerfile Instructions - ENTRYPOINT.md": "FiCommand",
   "6. Main Notes/docker/6.2.14. Dockerfile Instructions - SHELL.md": "FiCommand",
   "6. Main Notes/docker/6.2.15. Dockerfile Instructions - HEALTHCHECK.md": "FiCommand",
-  "6. Main Notes/docker/6.6. Docker History.md": "FiCommand"
+  "6. Main Notes/docker/6.6. Docker History.md": "FiCommand",
+  "6. Main Notes/docker/3.16. Docker Exec.md": "FiCommand",
+  "6. Main Notes/docker/3.17. Docker cp.md": "FiCommand",
+  "6. Main Notes/docker/3.20.1. Docker Logs.md": "FiCommand",
+  "6. Main Notes/docker/3.20.2. Docker Events.md": "FiCommand",
+  "6. Main Notes/docker/3.20.3. docker logs vs. docker events.md": "FiCommand",
+  "6. Main Notes/docker/3.22. Creating an Image from a Container.md": "FiCommand",
+  "6. Main Notes/docker/3.21. Docker Pause and Unpause.md": "FiCommand",
+  "6. Main Notes/docker/3.23. Transferring Docker Images Between Servers with docker save and docker load.md": "FiCommand",
+  "6. Main Notes/docker/4.4. Docker Volume Inspect.md": "FiCommand",
+  "6. Main Notes/docker/4.6. Volumes Deletion and Dangling Volumes.md": "FiCommand"
 }

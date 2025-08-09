@@ -11,6 +11,20 @@
             "id": "5b304a7aae19d74c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Templates/Course Note.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Course Note"
+            }
+          },
+          {
+            "id": "3c9167ae04bc11ac",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -18,31 +32,17 @@
             }
           },
           {
-            "id": "0e6d2801b13174bc",
+            "id": "9774a2bd973f72cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Main Notes/IELTS/IELTS Listening - Addresses.md",
+                "file": "6. Main Notes/docker/7.2. Docker Container Exit Codes Policies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IELTS Listening - Addresses"
-            }
-          },
-          {
-            "id": "103b3f91752f6e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Main Notes/IELTS/IELTS Listening - Word Limit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IELTS Listening - Word Limit"
+              "title": "7.2. Docker Container Exit Codes Policies"
             }
           }
         ],
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ENTRYPOINT",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,46 +195,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "103b3f91752f6e3c",
+  "active": "9774a2bd973f72cb",
   "lastOpenFiles": [
-    "6. Main Notes/IELTS/IELTS Listening - Addresses.md",
-    "6. Main Notes/IELTS/IELTS Listening - Word Limit.md",
-    "6. Main Notes/Ansible/2.8. Playbook Syntax.md",
+    "6. Main Notes/docker/7.1. Docker Restart Policies.md",
+    "6. Main Notes/docker/6.6. Docker History.md",
+    "6. Main Notes/docker/6.5. dockerignore.md",
+    "6. Main Notes/docker/6.4. Multi-Stage Dockerfiles.md",
+    "6. Main Notes/docker/6.3. Dockerfile best practices.md",
+    "6. Main Notes/docker/6.2.15. Dockerfile Instructions - HEALTHCHECK.md",
+    "6. Main Notes/docker/6.2.14. Dockerfile Instructions - SHELL.md",
+    "6. Main Notes/docker/6.2.12. Dockerfile Instructions - CMD.md",
+    "6. Main Notes/docker/6.2.13. Dockerfile Instructions - ENTRYPOINT.md",
+    "6. Main Notes/docker/6.2.11. Dockerfile Instructions - EXPOSE.md",
+    "6. Main Notes/docker/6.2.10. Dockerfile Instructions - VOLUME.md",
+    "6. Main Notes/docker/6.2.9. Dockerfile Instructions - WORKDIR.md",
+    "6. Main Notes/docker/6.2.8. Dockerfile Instructions - ARG.md",
+    "6. Main Notes/docker/6.2.7. Dockerfile Instructions - USER.md",
+    "6. Main Notes/docker/6.2.6. Dockerfile Instructions - ENV.md",
+    "6. Main Notes/docker/6.2.5. Dockerfile Instructions - RUN.md",
+    "5. Templates/Course Note.md",
+    "6. Main Notes/docker/6.2.4. Dockerfile Instructions - ADD.md",
+    "6. Main Notes/docker/6.2.3. Dockerfile Instructions - LABEL.md",
+    "6. Main Notes/docker/6.2.3. Dockerfile Instructions - COPY.md",
+    "6. Main Notes/docker/6.2.1. Dockerfile Instructions - FROM.md",
+    "6. Main Notes/docker/6.1.2. Caching Impacts.md",
+    "6. Main Notes/docker/6.1.1. Intermediate Containers.md",
+    "6. Main Notes/docker/6.1. Building Docker Images.md",
+    "6. Main Notes/docker/5.12. Network Troubleshoot.md",
+    "6. Main Notes/docker/5.11. Service Discovery in Docker.md",
     "2. Source Material/images/Ansible/2.8. output.png",
     "2. Source Material/images/Ansible/2.8. output 2.png",
-    "6. Main Notes/Ansible/2.7.1. Role.md",
-    "6. Main Notes/Ansible/2.7. Ansible Playbook Structure.md",
     "2. Source Material/images/Ansible/2.7. Ansible playbook structure.png",
-    "6. Main Notes/Ansible/2.5. Playbooks Details.md",
-    "6. Main Notes/Ansible/2.1.1. Ansible Architecture.md",
     "2. Source Material/images/Ansible/2.1.1. Ansible Architecture.png",
-    "6. Main Notes/Ansible/2.6. Ansible Config Files.md",
-    "6. Main Notes/Ansible/2.4. Become and Limit.md",
-    "6. Main Notes/Ansible/2.1.2. Ansible Hosts File in INI Format.md",
-    "6. Main Notes/Ansible/2.3.1. Ping, Shell and Setup Modules in Ansible.md",
-    "6. Main Notes/Ansible/2.2. First Ansible Simple Project.md",
-    "6. Main Notes/Ansible/2.3.2. Ansible Setup Module Filters.md",
     "2. Source Material/images/Ansible/2.2. ssh with passwd.png",
     "2. Source Material/images/Ansible/2.2. added ssh.png",
-    "6. Main Notes/Ansible/1.10. Ansible vs. Puppet vs. SaltStack vs. Chef.md",
     "2. Source Material/images/Ansible/1.10. Comparison 2.png",
     "2. Source Material/images/Ansible/1.10. Comparison.png",
     "2. Source Material/Pasted image 20250802143552.png",
-    "6. Main Notes/Ansible/1.9. IaC.md",
-    "3. Tags/Ansible.md",
-    "6. Main Notes/Ansible/1.8. Agentless vs. Agent-Based.md",
-    "5. Templates/Course Note.md",
-    "3. Tags/Docker.md",
-    "3. Tags/Devops.md",
-    "6. Main Notes/Ansible/1.7. Ansible’s Capabilities.md",
-    "6. Main Notes/go/Custom Validators for Struct Tags in the Gin Web Framework - Part 1.md",
     "6. Main Notes/docker_document.zip",
     "6. Main Notes/zin6Q4Q8",
-    "6. Main Notes/DevOps Roadmap.md",
     "2. Source Material/images/Ansible/1.8. Agentless.png",
-    "6. Main Notes/Ansible/1.6. NASA and Ansible.md",
-    "6. Main Notes/Ansible/1.5. Need for Ansible.md",
-    "6. Main Notes/Ansible/1.4. Automation Deployment Pipeline.md",
     "2. Source Material/images/Ansible",
     "6. Main Notes/Ansible",
     "2. Source Material/images/Linux/How Linux Works",
