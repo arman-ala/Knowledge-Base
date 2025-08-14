@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Tokyo Night",
   "enabledCssSnippets": [
     "justify",
-    "bold_italic"
+    "bold_italic",
+    "custom-headers"
   ],
   "textFontFamily": "Segoe UI",
   "monospaceFontFamily": "Segoe UI"
