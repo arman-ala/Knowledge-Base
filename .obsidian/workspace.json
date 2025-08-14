@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +195,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45ea504e5a936dbd",
+  "active": "401e1665a72661a1",
   "lastOpenFiles": [
-    "6. Main Notes/3.12. Debug Module.md",
     "6. Main Notes/3.13. File Module.md",
+    "6. Main Notes/3.12. Debug Module.md",
     "6. Main Notes/3.11. User Module.md",
     "6. Main Notes/3.10. Group Module.md",
     "6. Main Notes/3.9. Fetch Module.md",
