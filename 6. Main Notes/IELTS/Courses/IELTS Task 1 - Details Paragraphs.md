@@ -34,5 +34,5 @@ In this module we will:
 ![[IELTS Task 1 Question Example 12.png]]
 ## Grouping Rules
 - Most logical way for graph over time is normally by category.
-- If two graphs will normally be one graph and then the other.
+- If two graphs were given, it will normally be one graph and then the other.
 - For comparison graphs it will normally depend on the purpose.

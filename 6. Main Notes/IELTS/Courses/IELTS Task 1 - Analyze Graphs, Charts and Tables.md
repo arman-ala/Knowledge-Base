@@ -81,8 +81,8 @@ Bar graph and Line graph is so similar to each other.
 - All graphs and charts display data, however, there will normally be more data than required.
 - We therefore have to identify key features of the data. Purpose helps us do that.
 There are only two possible purposes for Graphs, Charts and Tables:
-- Show trends over time.
-	- You can always tell if it is "Trends over time" by easily looking at your Y-axis or X-axis. If one of them was representing time, you can say the purpose is "Trends over time".
+- <mark style="background: #FFF3A3A6;">Show trends over time.</mark>
+	- <mark style="background: #BBFABBA6;">You can always tell if it is "Trends over time" by easily looking at your Y-axis or X-axis. If one of them was representing time, you can say the purpose is "Trends over time".</mark>
 	- They want you to describe the graph by only comparing the start point with end point and with no details.
-- Compare and contrast data.
-	- When there is no dates, it is all about "Compare and Contrast".
+- <mark style="background: #FFF3A3A6;">Compare and contrast data.</mark>
+	- <mark style="background: #BBFABBA6;">When there is no dates, it is all about "Compare and Contrast".</mark>

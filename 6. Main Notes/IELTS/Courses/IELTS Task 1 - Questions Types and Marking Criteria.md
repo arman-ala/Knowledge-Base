@@ -6,8 +6,8 @@ Tags: [[IELTS]]
 
 ---
 
-1. Structure of all Task 1 questions
-	- **Question Statement**: This section varies depending on the specific task. For example, in the provided image, the question statement is: "The graphs above give information about computer ownership as a percentage of the population between 2002 and 2010, and by level of education for the years 2002 and 2010." This introduces the topic and the data to be analyzed, such as trends in computer ownership over time and its correlation with education levels.
+1. <mark style="background: #FFF3A3A6;">Structure of all Task 1 questions</mark>
+	- **Question Statement**: This section varies depending on the specific task. For example, the question statement is: "The graphs above give information about computer ownership as a percentage of the population between 2002 and 2010, and by level of education for the years 2002 and 2010." This introduces the topic and the data to be analyzed, such as trends in computer ownership over time and its correlation with education levels.
 	- **Instructions**: These are consistent across all Task 1 questions and typically include directives such as "Summarize the information by selecting and reporting the main features, and make comparisons where relevant." Additionally, there is often a word count requirement, such as "Write at least 150 words," which ensures candidates provide a detailed response.
 	- **Data Source**: There are seven types of data representations candidates might encounter:
 	  - **Line Graph**: Shows trends over time, e.g., computer ownership percentages from 2002 to 2010.
@@ -18,7 +18,7 @@ Tags: [[IELTS]]
 	  - **Process Diagram**: Illustrates a sequence or process, less common but possible in some tasks.
 	  - **Map(s)**: Shows geographical changes or comparisons, typically involving spatial data.
 
-2. 7 Types of question
+2. <mark style="background: #FFF3A3A6;">7 Types of question</mark>
 	- **Line Graph**: Ideal for tracking changes over time, such as the steady increase in computer ownership from 2002 to 2010.
 	- **Bar Chart**: Effective for comparing discrete categories, e.g., computer ownership across different education levels in 2002 and 2010.
 	- **Pie Chart**: Useful for showing the percentage distribution of computer owners by age or region.
@@ -27,7 +27,7 @@ Tags: [[IELTS]]
 	- **Process Diagram**: Describes stages, such as the manufacturing process of computers, though less relevant here.
 	- **Map(s)**: Depicts geographical data, possibly showing computer ownership by region, if applicable.
 
-3. Dos and Don'ts
+3. <mark style="background: #FFF3A3A6;">Dos and Don'ts</mark>
 
 - <mark style="background: #BBFABBA6;">Task Achievement Dos</mark>
 	- **Identify key features**: Pinpoint the most significant trends, patterns, or differences in the data. For instance, in a bar chart, this might be the highest or lowest values or a notable contrast between categories.
