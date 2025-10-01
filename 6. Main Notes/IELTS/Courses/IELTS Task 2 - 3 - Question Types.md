@@ -23,7 +23,8 @@ The 5 types of questions are:
 		
 		*Some people say that the best way to improve public health is by increasing the number of sports facilities. Others, however, say that this would have little effect on public health and that other measures are required.*
 		**Discuss both these views and give your own opinion.**
-3. Advantages and Disadvantages
+		
+1. Advantages and Disadvantages
 	- It is a general statement. You will always be given only a statement, and then you are asked to discuss advantages and disadvantages.
 	- They are easy to find, you only need to find words like advantages, disadvantages, benefits, profit, downside, flaw and drawbacks.
 	- Examples:
@@ -33,7 +34,7 @@ The 5 types of questions are:
 		*In some countries, young people are encouraged to work or travel for a year between finishing high school and starting university studies.*
 		**Discuss the advantages and disadvantages for young people who decide to do this.**
 		
-4. Problem/Causes and Solution
+2. Problem/Causes and Solution
 	- Examples:
 		*In some countries, the average weight of people is increasing and their levels of health and fitness are decreasing.*
 		**What do you think are the causes of these problems and what measures could be taken to solve them?**
@@ -41,7 +42,7 @@ The 5 types of questions are:
 		*Global warming is one of the biggest threats humans face in the 21st century, and sea levels are continuing to rise at alarming rates.*
 		**What problems are associated with this, and what are some possible solutions?**
 		
-5. Double Question
+3. Double Question
 	- Examples:
 		*Today more people are traveling than ever before.*
 		**Why is this the case?**
