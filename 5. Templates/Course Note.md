@@ -1,7 +1,7 @@
 # {{Title}}
 
 {{date}} {{time}}
-Status: 
-Tags: 
+Status: #DONE 
+Tags: [[Linux]]
 
 ---
