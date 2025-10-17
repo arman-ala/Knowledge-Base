@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🇩🇪",
       "FiCommand",
       "LiPresentation"
     ],
@@ -122,5 +123,23 @@
   "6. Main Notes/Linux/LPIC 1/mv command.md": "FiCommand",
   "6. Main Notes/Linux/LPIC 1/tail command.md": "FiCommand",
   "6. Main Notes/Linux/LPIC 1/unalias command.md": "FiCommand",
-  "6. Main Notes/Linux/LPIC 1/ps command.md": "FiCommand"
+  "6. Main Notes/Linux/LPIC 1/ps command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/fdisk command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/cfdisk command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/partx command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/sfdisk command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/parted command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/mount command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/grep command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/df command.md": "FiCommand",
+  "6. Main Notes/Germany/A1.1/1.1. What's your name?.md": "🇩🇪",
+  "6. Main Notes/Germany/A1.1/1.2. Greetings and saying goodbyes.md": "🇩🇪",
+  "6. Main Notes/Linux/LPIC 1/hostnamectl command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/uname command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/chgrp command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/chmod command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/chown command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/du command.md": "FiCommand",
+  "6. Main Notes/Linux/LPIC 1/stat command.md": "FiCommand",
+  "6. Main Notes/umask command.md": "FiCommand"
 }

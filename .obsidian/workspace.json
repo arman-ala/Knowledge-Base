@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "2bdd85181177f392",
+        "id": "b884d2ed39428c56",
         "type": "tabs",
         "children": [
           {
-            "id": "c2d2cd99fc78bd9a",
+            "id": "ff3093305ed608b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. Main Notes/Linux/LPIC 1/1.21. Wildcards and Regular Expressions in Linux.md",
+                "file": "6. Main Notes/IELTS/Books/12-2.Complex Sentences.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.21. Wildcards and Regular Expressions in Linux"
+              "title": "12-2.Complex Sentences"
+            }
+          },
+          {
+            "id": "42c3b2565487ea45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Main Notes/IELTS/Books/12-2.Complex Sentences.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-2.Complex Sentences"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Linux Filesystem Tree\"",
+                "query": "compound",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 233.5
   },
   "right": {
     "id": "63a28e6a236ac109",
@@ -172,53 +187,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c2d2cd99fc78bd9a",
+  "active": "42c3b2565487ea45",
   "lastOpenFiles": [
-    "6. Main Notes/Linux/LPIC 1/1.22. Vim Introduction.md",
-    "6. Main Notes/Linux/LPIC 1/1.23. Vim Command Mode Operations.md",
-    "6. Main Notes/Linux/LPIC 1/1.24. Linux Filesystems and Inode Management.md",
-    "6. Main Notes/Linux/LPIC 1/2.1. Hard Disk Structure and Linux Storage Management.md",
-    "6. Main Notes/Linux/LPIC 1/2.2. Storage Device Interfaces.md",
-    "6. Main Notes/Linux/LPIC 1/2.3. IDE(PATA).md",
-    "6. Main Notes/Linux/LPIC 1/2.4. SCSI, SATA, and Flash Memory.md",
-    "6. Main Notes/Linux/LPIC 1/2.5. Why We Need Partitioning.md",
-    "6. Main Notes/Linux/LPIC 1/1.15. Linux File System Tree.md",
-    "2. Source Material/images/Linux/LPIC 1/1.15. Linux Filesystem Tree.png",
-    "2. Source Material/images/Linux/LPIC 1/2.4. SATA ports.png",
-    "2. Source Material/images/Linux/LPIC 1/2.4. SCSI card.png",
-    "2. Source Material/images/Linux/LPIC 1/2.3. another Jumper config.jpg",
-    "2. Source Material/Pasted image 20251006172937.png",
-    "2. Source Material/Pasted image 20251006172935.png",
-    "2. Source Material/Pasted image 20251006172805.png",
-    "2. Source Material/images/Linux/LPIC 1/2.3. real photo of hard drive.png",
-    "2. Source Material/images/Linux/LPIC 1/2.3. Jumper config.png",
-    "2. Source Material/images/Linux/LPIC 1/2.3. PATA cable 2.png",
-    "6. Main Notes/Linux/LPIC 1/ps command.md",
-    "6. Main Notes/docker/2.1.3. Base Image.md",
-    "6. Main Notes/docker/2.4. Virtualization vs. Hypervisor.md",
-    "6. Main Notes/Linux/LPIC 1/1.10. root.md",
-    "6. Main Notes/Linux/LPIC 1/1.16. Executable Files in Linux.md",
-    "6. Main Notes/Linux/LPIC 1/mv command.md",
-    "6. Main Notes/Linux/LPIC 1/cp command.md",
-    "6. Main Notes/Linux/LPIC 1/1.21. Wildcards and Regular Expressions in Linux.md",
-    "6. Main Notes/Linux/LPIC 1/unalias command.md",
-    "6. Main Notes/Linux/LPIC 1/tail command.md",
-    "6. Main Notes/Linux/LPIC 1/head command.md",
-    "6. Main Notes/Linux/LPIC 1/alias command.md",
-    "6. Main Notes/Linux/LPIC 1/rm command.md",
-    "6. Main Notes/Linux/LPIC 1/cat command.md",
-    "6. Main Notes/Linux/LPIC 1/1.20. Linux Terminal Operators.md",
-    "6. Main Notes/Linux/LPIC 1/cd command.md",
-    "6. Main Notes/Linux/LPIC 1/mkdir command.md",
+    "6. Main Notes/Untitled.md",
+    "6. Main Notes/IELTS/Books/12-2.Complex Sentences.md",
+    "6. Main Notes/IELTS/Books/12-3.Compound Sentences.md",
+    "6. Main Notes/IELTS/Books/12-1.Sentences Structures.md",
+    "6. Main Notes/IELTS/Books/7.Describing Pie Charts.md",
+    "6. Main Notes/IELTS/Tips/Conversely, Subsequently, Emerge, Zenith, Commence.md",
+    "6. Main Notes/IELTS/Tips/Cautious Language.md",
+    "6. Main Notes/IELTS/Tips/Despite of, in spite of, howevere and although.md",
+    "6. Main Notes/IELTS/Tips/Expressing Importance.md",
+    "6. Main Notes/IELTS/Tips/Linking words.md",
+    "6. Main Notes/2.13. Linux Default Permissions.md",
+    "6. Main Notes/umask command.md",
+    "Excalidraw/Drawing 2025-09-13 16.54.10.excalidraw.md",
+    "6. Main Notes/Linux/LPIC 1/2.12. Linux File Permissions.md",
+    "2. Source Material/images/Linux/LPIC 1/2.12. commands.png",
+    "2. Source Material/images/Linux/LPIC 1/2.12. chmod symbolic form.png",
+    "6. Main Notes/Germany/A1.1/1.2. Greetings and saying goodbyes.md",
+    "6. Main Notes/Germany/A1.1/1.1. What's your name?.md",
+    "6. Main Notes/Linux/LPIC 1/stat command.md",
+    "6. Main Notes/Linux/LPIC 1/chgrp command.md",
+    "6. Main Notes/Linux/LPIC 1/chown command.md",
+    "6. Main Notes/Linux/LPIC 1/chmod command.md",
+    "6. Main Notes/Linux/LPIC 1/ls command.md",
+    "6. Main Notes/Linux/LPIC 1/du command.md",
+    "6. Main Notes/Linux/LPIC 1/2.11. Swap.md",
+    "6. Main Notes/Linux/LPIC 1/whoami command.md",
+    "6. Main Notes/Linux/LPIC 1/hostnamectl command.md",
+    "6. Main Notes/Linux/LPIC 1/uname command.md",
+    "2. Source Material/images/Linux/LPIC 1/2.11. swap methods.png",
+    "2. Source Material/images/Linux/LPIC 1/2.11. swap methods.png",
+    "2. Source Material/images/Linux/LPIC 1/2.11. file as swap.png",
+    "2. Source Material/images/Linux/LPIC 1/2.11. file as swap.pn",
+    "2. Source Material/images/Linux/LPIC 1/2.11. file as swap.png.png",
+    "2. Source Material/images/Linux/LPIC 1/Screenshot from 2025-10-15 02-17-54.png",
+    "2. Source Material/images/Linux/LPIC 1/Pasted image.png",
+    "2. Source Material/images/Linux/LPIC 1/2.11. create, add and dismount.png",
+    "2. Source Material/images/Linux/LPIC 1/2.11. fdisk.png",
+    "6. Main Notes/Germany/A1.1",
+    "6. Main Notes/Germany",
     "6. Main Notes/Untitled.base",
     "Excalidraw",
     "6. Main Notes/IELTS/Tips",
     "6. Main Notes/Untitled 1.base",
     "2. Source Material/images/IELTS/Courses",
     "2. Source Material/images/IELTS/New folder",
-    "2. Source Material/images/IELTS/Books",
-    "6. Main Notes/IELTS/Courses",
-    "6. Main Notes/IELTS/New folder",
-    "6. Main Notes/IELTS/Books"
+    "2. Source Material/images/IELTS/Books"
   ]
 }
